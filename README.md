@@ -62,5 +62,5 @@ To run this project locally:
     ```bash
     jupyter notebook 
     ```
-4. Open Salifort_Motors_Capstone.ipynb
+4. Open Salifort-Motors-Capstone.ipynb
     
